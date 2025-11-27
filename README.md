@@ -64,56 +64,7 @@ interests: [AI, Blockchain, Cyber Security]
 
 ---
 
-## 💼 Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Welth - AI Finance Platform
-**Next.js 15 • Gemini API • Supabase**
-
-AI-powered receipt scanning with OCR, smart budget alerts using Inngest cron jobs, and interactive analytics dashboard. Deployed on Vercel with Arcjet rate limiting.
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Kru5hna)
-
-</td>
-<td width="50%">
-
-### 💬 ChatHub - Real-Time Messaging
-**Node.js • Socket.io • MongoDB**
-
-WebSocket-based chat with 100+ concurrent connections, JWT authentication, and Cloudinary integration. Protected with Arcjet middleware.
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Kru5hna)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📝 NotesBud - Note-Taking App
-**Next.js • Firebase • Firestore**
-
-Real-time synchronization across devices with optimized React rendering using React.memo and useMemo hooks.
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Kru5hna)
-
-</td>
-<td width="50%">
-
-### 🚀 More Projects Coming Soon...
-Currently building exciting Web3 applications and exploring blockchain development!
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
