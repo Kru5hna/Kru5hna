@@ -20,12 +20,12 @@
   </p>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 
 ```yaml
 name: Krushna Raut
 located_in: Nagpur, India
-current_education: B.Tech in ECE @RCOEM
+current_education: B.Tech in ECS @RCOEM
 current_focus: Web3 Development & Full-Stack Engineering
 interests: [AI, Blockchain, Cyber Security]
 
