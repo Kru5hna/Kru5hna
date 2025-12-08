@@ -99,7 +99,7 @@ interests: [AI, Blockchain, Cyber Security]
 
 <div align="center">
   
-  **📫 Let's Connect & Build Something Amazing!**
+##  **📫 Let's Connect & Build Something Amazing!**
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
